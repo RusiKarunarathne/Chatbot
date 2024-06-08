@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "routes": [
+      {
+        "src": "/getResponse",
+        "dest": "/index.js" 
+      }
+    ]
+   
+  }
+  
